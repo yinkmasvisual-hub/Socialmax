@@ -1,4 +1,4 @@
-# SMM Panel
+# sociamax
 
 A full SMM (social media marketing) reseller site: user accounts, wallet
 balance, manual deposit approval, order placement, and order history — all
